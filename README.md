@@ -1,5 +1,7 @@
 # GrowthFlow.ai
 
+![Screenshot](assets/screenshot.png)
+
 Production-ready Next.js social content planner with:
 
 - Supabase email/password authentication
